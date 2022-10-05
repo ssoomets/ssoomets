@@ -1,7 +1,7 @@
 ### ✌️ About me:
 
 - Heya, I'm @ssoomets. 
-- I’m into data analysis and applying data in various business scenarios. I'm highly interested in practical solutions within already established data architecture and tools.
+- I’m into data analysis and applying data in various scenarios. I'm highly interested in practical solutions within already established data architecture and tools.
 
 ---
 

@@ -1,4 +1,4 @@
-- 👋 Heya, I’m @ssoomets
+Heya, I'm @ssoomets. A bit about me: 
 - 👀 I’m into data analysis and applying data in various business scenarios. I'm highly interested in practical solutions within already established data architecture and tools.
 
 - 📫 See my profile for contact details.
